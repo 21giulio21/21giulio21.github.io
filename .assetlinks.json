@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.facebook.inst.uber",
+    "sha256_cert_fingerprints":
+    ["57:E1:14:88:62:FE:26:49:F6:99:01:64:E7:63:38:F0:7A:7B:C1:3E:F6:88:5C:D2:50:E8:C4:62:4F:37:CC:B9"]
+  }
+}]
